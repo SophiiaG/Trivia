@@ -15,4 +15,4 @@ class api {
     return json;
   }
 }
-export default new api;
+export default new api();
